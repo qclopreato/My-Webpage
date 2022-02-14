@@ -1,0 +1,65 @@
+body {
+  background-color: rgb(94, 94, 94);
+}
+
+h1 {
+  text-align: center;
+  color: lightblue;
+}
+
+h2 {
+  text-align: center;
+}
+
+.links {
+  list-style-type: none;
+  padding: 0px;
+  text-align: center;
+}
+
+.inline {
+  display: inline;
+}
+
+.blogposts {
+  text-align: left;
+}
+
+.github {
+  text-align: center;
+}
+
+.linkedin {
+  text-align: center;
+}
+
+.box1 {
+  width: 75%;
+  height: auto;
+  margin: auto;
+  background: white;
+  border: thin dashed black;
+  padding: 1em;
+  border-radius: 10px;
+}
+
+.box2 {
+  width: 75%;
+  height: auto;
+  margin: auto;
+  background: white;
+  border: thin dashed black;
+  padding: 1em;
+  border-radius: 10px;
+}
+
+footer {
+  text-align: center;
+  width: 75%;
+  height: auto;
+  margin: auto;
+  background: white;
+  border: thin dashed black;
+  padding: 1em;
+  border-radius: 10px;
+}
