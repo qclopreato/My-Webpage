@@ -7,3 +7,5 @@ Progress Log:
 2/12/2022: Today I worked on creating the HTML and CSS files for my website. I also developed code that allows users to navigate to my GitHub and LinkedIn pages.
 
 2/13/2022: Today I worked on creating additonal pages for my website. Specifically, I added the "About Me" and "Blog" pages. 
+
+2/14/2022: Today I added a "progress" page to my website. I also work out how to attach blog posts to the "Blog" page.
