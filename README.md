@@ -9,3 +9,5 @@ Progress Log:
 2/13/2022: Today I worked on creating additonal pages for my website. Specifically, I added the "About Me" and "Blog" pages. 
 
 2/14/2022: Today I added a "progress" page to my website. I also work out how to attach blog posts to the "Blog" page.
+
+2/15/2022: Today I began work on my "Pizza Website." I will try to post project updates to my blog!
